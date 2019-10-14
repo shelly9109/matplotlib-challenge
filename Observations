@@ -1,0 +1,13 @@
+Matplotlib Homework
+
+Observations
+
+1. While the Placebo, Infubinol, and Ketapril treatments increased the tumor volume, Capomulin actually decreased the tumor volume making it the most effective treatment. Because of these results, I would advise the research and development team to determine which components of the Capomulin treatment aren't common with the others, then explore the traits of those components more minutely to try and identify what is making the Capomulin treatment effective.
+
+2. The Placebo and Ketapril treatments had the highest metastatic spread after 45 days of treatment. The Infubinol treatment also had a high metastatic spread, but the rate of metastatic spread flattened a bit between 40 and 45 days. With that said, I'd be interested to see how the Infubinol treatment metastatic spread rate performs past 40 days. Although the Capomulin treatment has the lowest metastatic spread, we can see that it's rate is higher than the Infubinol treatment's rate between 40 and 45 days. I'd be interested to see the Infubinol and Capomulin treatments up to 65 days. If the Capomulin treatment metastatic spread rate continued to flatten, but the Infubinol continued to grow at it's current rate, the two might cross, thus making Infubinol more effective in containing the metastatic spread. As the data is currently, the Capomulin treatment is most effective in limiting the metastatic spread during a 45 day treatment.
+
+3. Although the Infubinol treatment has the second highest survival rate around 15 to 20 days, the survival rate drops significantly after 30 days to end the 45 day trial with the lowest survival rate of all treatments. The Placebo and Ketapril treatments stay rather close in survival rate during the 45 day trial, but end with a very low survival rate, close to Infubinol's rate which was the lowest in the study. Capomulin's survival rate was much higher than the other treatments survival rate, thus being the most effective treatment.
+
+Final Observation:
+Capomulin is the most effective treatment because it is the only one that helped to shrink the tumor volume, most effectively contained the metastatic spread, and had the highest survival rate. Capomulin was followed by Infubinol, then the Placebo in most effective. The Ketapril treatment was the least effective. 
+
